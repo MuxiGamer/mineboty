@@ -1,9 +1,9 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "herothegames32.aternos.me",
+    "port": "40712",
     "password": "",
     "prefix": "",
-    "login-enabled": "false",
+    "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
